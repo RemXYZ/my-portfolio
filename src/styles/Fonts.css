@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "PlainScriptCTT";
+    src:url("fonts/PlainScriptCTT_Normal/PlainScriptCTT_Normal.Ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    }
+    @font-face {
+    font-family: "Russo";
+    src:url("fonts/Russo_One/RussoOne-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    }
+    @font-face {
+    font-family: "Rubik";
+    src:url("fonts/Rubik_Mono_One/RubikMonoOne-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    }
+    
