@@ -8,7 +8,7 @@ const Menu = () => {
     return ( 
         <div className='menu_background'>
             <div className="menu">
-                <Link to="/home" className="logo">Azixon</Link>
+                <Link to="/home" className="logo">InfMat</Link>
                 <nav>
                     <Link to="#" className="nav_item">ABOUT</Link>
                     <Link to="#" className="nav_item">BLOG</Link>
